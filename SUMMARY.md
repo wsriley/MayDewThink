@@ -17,4 +17,5 @@
 * GUID For Everything
 * AR Big Screen
 * See Movies Together Online
+* Stream Video Over Basic SMS Using AI
 
