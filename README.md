@@ -1,4 +1,4 @@
-# An Idea a Day to Make you Think
+# An Idea a Day to Make You Think
 
 
 
