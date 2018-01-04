@@ -18,4 +18,7 @@
 * AR Big Screen
 * See Movies Together Online
 * Stream Video Over Basic SMS Using AI
+* Instead of Failed Logins Users Should be Redirected to A Honeypot
+* For Thin Pipes Video Conferencing Should Default to A Slim Mode
+* Copyrights and Patents Have Run There Course
 
