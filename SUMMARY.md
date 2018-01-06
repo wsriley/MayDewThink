@@ -21,4 +21,5 @@
 * Instead of Failed Logins Users Should be Redirected to A Honeypot
 * For Thin Pipes Video Conferencing Should Default to A Slim Mode
 * Copyrights and Patents Have Run There Course
+* "Valid" Fake Credit Cards to Track Scammers
 
