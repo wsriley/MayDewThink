@@ -7,7 +7,7 @@
 * [An Always On Life-Logging App](an-always-on-life-logging-app.md)
 * [An App that Uses AI to Analyze Who and What Makes You Happiest](an-app-that-uses-ai-to-analyze-who-and-what-makes-you-happiest.md)
 * [An App that tell you the potential genetic makeup of your kids](an-app-that-tell-you-the-potential-genetic-makeup-of-your-kids.md)
-* Colorizing words extracted from speech recognition to show emotions from vocal tone
+* [Colorizing words extracted from speech recognition to show emotions from vocal tone](colorizing-words-extracted-from-speech-recognition-to-show-emotions-from-vocal-tone.md)
 * NSA Should Give Free Wireless
 * Rethinking Prisons
 * Basic Human Rights
